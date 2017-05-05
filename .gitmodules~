@@ -1,4 +1,0 @@
-[submodule "helloworld/myrepo"]
-	path = helloworld/myrepo
-	url = git@github.com:pranabpadhy/myrepo.git
-	branch = master
