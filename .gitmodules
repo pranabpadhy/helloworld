@@ -1,6 +1,3 @@
 [submodule "helloworld/myrepo"]
 	path = helloworld/myrepo
 	url = git@github.com:pranabpadhy/myrepo.git
-[submodule "myrepo2"]
-	path = myrepo2
-	url = git@github.com:pranabpadhy/myrepo2.git
